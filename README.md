@@ -1,12 +1,12 @@
-### Hi there, [I'm Mohammad Yasir Khan][website] <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
+### Hi there, I'm Mohammad Yasir Khan <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
 
-[![Website](https://img.shields.io/website?label=mansoorrajput.com&style=for-the-badge&url=https%3A%2F%2Fmansoorrajput.com)][website]
+<!-- [![Website](https://img.shields.io/website?label=mansoorrajput.com&style=for-the-badge&url=https%3A%2F%2Fmansoorrajput.com)][website] -->
 
 
 I am a Fullstack developer, 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" /> I’m currently working on something amazing!
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" />  2021 Goals: Contribute more to Open Source projects
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" />  2022 Goals: Contribute more to Open Source projects
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" />  fun fact: Coding is not my job its my hobby and i love doing it. 
 
 ### TECHNOLOGIES I USE OR CODE WITH:
@@ -20,35 +20,35 @@ I am a Fullstack developer,
 ---
 
 
-#### WHERE DID I SPENT LAST 7 DAYS?
+<!--  #### WHERE DID I SPENT LAST 7 DAYS?
 
- [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)][website]
- <br/>
-### Connect with me:
+ [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)][website] -->
+ <br/> 
+<!-- ### Connect with me:
 
 [<img align="left" alt="mansoorrajput.com" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
 [<img align="left" alt="hussainmansoor876 | Facebook" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" />][facebook]
 [<img align="left" alt="hussainmansoor876 | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
 [<img align="left" alt="hussainmansoor876 | StackOverflow" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png?1462799966" />][stackoverflow]
-<!-- [<img align="left" alt="hussainmansoor876 | Fiverr" height="40px" width="40px" src="https://i.postimg.cc/Cx9YMWKn/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" />][fiverr] -->
+<!-- [<img align="left" alt="hussainmansoor876 | Fiverr" height="40px" width="40px" src="https://i.postimg.cc/Cx9YMWKn/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" />][fiverr] --> 
 
 <br />
 <br/>
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![Mansoor's github stats](https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)][website]
+  [![Mansoor's github stats](https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)][website]
  
  
-  [![Mansoor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmansoor876&hide=css,html&show_icons=true&hide_border=true)][website]
+  [![Mansoor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmansoor876&hide=css,html&show_icons=true&hide_border=true)][website] 
  
  
  
 </details>
-
-[website]: https://mansoorrajput.com
+ -->
+<!-- [website]: https://mansoorrajput.com
 [facebook]: https://www.facebook.com/hussainmansoor876/
 [linkedin]: https://www.linkedin.com/in/mansoor-hussain-28b97815b/
 [stackoverflow]: https://stackoverflow.com/users/13417349/mansoor-rajput
-[fiverr]: https://www.fiverr.com/mansoorh876
+[fiverr]: https://www.fiverr.com/mansoorh876 -->
