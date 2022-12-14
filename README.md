@@ -18,6 +18,7 @@
 
 <!-- <a href="https://github.com/m-yasir-khan"><img src="https://activity-graph.herokuapp.com/graph?username=m-yasir-khan&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 </p>
+<center>
 <br/>
   <a href="https://github.com/m-yasir-khan">
   <img src="https://github-readme-stats.vercel.app/api?username=m-yasir-khan&count_private=true&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="m-yasir-khan GitHub stats" />
@@ -27,4 +28,5 @@
   <a href="https://github.com/m-yasir-khan">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yasir-khan&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
+  </center>
 
