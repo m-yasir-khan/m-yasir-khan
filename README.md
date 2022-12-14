@@ -32,7 +32,7 @@
   </a>
   </p>
 
-<table>
+<table border="none">
 <tr>
 <td valign="top" width="33%">
 <div align="center"> 
