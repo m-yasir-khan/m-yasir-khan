@@ -16,7 +16,7 @@
   </samp>
   
 
-<!-- <a href="https://github.com/m-yasir-khan"><img src="https://activity-graph.herokuapp.com/graph?username=m-yasir-khan&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<!-- <a href="https://github.com/m-yasir-khan"><img src="https://activity-graph.herokuapp.com/graph?username=m-yasir-khan&bg_color=000000&color=ffc001&line=84cc16&point=ffc001&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 </p>
 <p align="center">
 <br/>
@@ -26,7 +26,7 @@
   <br/>
 
   <a href="https://github.com/m-yasir-khan">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yasir-khan&stroke=ffffff&background=000000&ring=ffc001&fire=ffc001&currStreakNum=ffffff&currStreakLabel=ffc001&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yasir-khan&stroke=ffc001&background=000000&ring=ffc001&fire=ffc001&currStreakNum=ffc001&currStreakLabel=ffc001&sideNums=ffc001&sideLabels=ffc001&dates=ffc001&hide_border=true" />
   </a>
   </p>
 
