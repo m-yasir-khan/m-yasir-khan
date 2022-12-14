@@ -28,5 +28,6 @@
   <a href="https://github.com/m-yasir-khan">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yasir-khan&stroke=ffc001&background=000000&ring=ffc001&fire=ffc001&currStreakNum=ffc001&currStreakLabel=ffc001&sideNums=ffc001&sideLabels=ffc001&dates=ffc001&hide_border=true" />
   </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 
