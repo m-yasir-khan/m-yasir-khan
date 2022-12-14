@@ -1,7 +1,5 @@
 <img src='./assets/BannerYasir.png'/>
  <!-- ![A test image]<img src="https://drive.google.com/file/d/1LpW6J9iQ_rU7LBs1JVgjKFqTRHGqVQJI/view?usp=sharing"/> -->
- 
- 
  <hr></hr>
 <p align="center">
   <samp>
@@ -14,9 +12,6 @@
     :briefcase: LinkedIn: http://www.linkedin.com/in/myasirkhan575 <br>
                 <!-- Twitter: https://twitter.com/saadpastadev?lang=en -->
   </samp>
-  
-
-<!-- <a href="https://github.com/m-yasir-khan"><img src="https://activity-graph.herokuapp.com/graph?username=m-yasir-khan&bg_color=000000&color=ffc001&line=84cc16&point=ffc001&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 </p>
 <p align="center">
   <br/>
