@@ -13,7 +13,7 @@
                 <!-- Twitter: https://twitter.com/saadpastadev?lang=en -->
   </samp>
 </p>
-<p align="center">
+<!-- <p align="center">
   <br/>
   <a href="https://github.com/m-yasir-khan">
   <img src="https://github-readme-stats.vercel.app/api?username=m-yasir-khan&count_private=true&show_icons=true&hide=&title_color=ffc001&text_color=ffc001&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="m-yasir-khan GitHub stats" />
@@ -26,7 +26,7 @@
   <a href="https://github.com/m-yasir-khan">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yasir-khan&layout=compact&count_private=true&show_icons=true&hide=&title_color=ffc001&text_color=ffc001&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true&width=500" />
   </a>
-</p>
+</p> -->
 
 <!-- <table border="none">
 <tr>
